@@ -7,7 +7,7 @@ Tengo experiencia en los siguientes lenguajes:
 
 - C++ (Básico)
 - Java (Intermedio)
-- JavaScript con jQuery (Intermedio)
+- JavaScript con jQuery (Básico)
 - Python (Básico)
 - PHP (Intermedio)
 - Dart (Básico / Entry Level)
