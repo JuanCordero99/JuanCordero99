@@ -1,4 +1,4 @@
-Hola, soy Juan Pablo Cordero Sotelo 👋
+Hola, soy Juan Pablo Cordero Sotelo 
 Soy un entusiasta de la tecnología apasionado por el desarrollo de software, especialmente en el área de Back-End.
 Me considero una persona autodidacta, organizada y siempre abierta a nuevos retos.
 
