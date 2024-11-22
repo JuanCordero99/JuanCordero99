@@ -12,7 +12,7 @@ Tengo experiencia en los siguientes lenguajes:
 - PHP (Intermedio)
 - Dart (Básico / Entry Level)
 
-Principales conocimientos técnicos
+Conocimientos técnicos
 
 - Programación Orientada a Objetos (OOP) con C++, Java y PHP.
 - Estructuras de datos básicas.
